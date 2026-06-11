@@ -103,7 +103,7 @@ Breakdown of the four variables contributing to the final score.
 
 ## Tableau Dashboard
 
-![Tableau Dashboard](visuals/tableau_dashboard.png)
+![Tableau Dashboard](visualizations/tableau_dashboard.png)
 
 ---
 
@@ -137,7 +137,7 @@ The simulation covered:
 
 ## Tournament Simulation
 
-![World Cup Bracket](visuals/world_cup_2026_bracket.png)
+![World Cup Bracket](visualizations/world_cup_2026_bracket.png)
 
 ---
 
